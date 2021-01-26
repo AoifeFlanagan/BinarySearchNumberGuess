@@ -5,7 +5,7 @@ Repository for a number guessing game, created with python.
 * [Introduction](https://github.com/AoifeFlanagan/BinarySearchNumberGuess#Introduction)
 * [Features](https://github.com/AoifeFlanagan/BinarySearchNumberGuess#Features)
 * [Modules](https://github.com/AoifeFlanagan/BinarySearchNumberGuess#Modules)
-* [Reccomended Interactive Development Environment (IDE)](https://github.com/AoifeFlanagan/BinarySearchNumberGuess#Reccomended-Interactive-Development-Environment-(IDE))
+* [Reccomended Interactive Development Environment (IDE)](https://github.com/AoifeFlanagan/BinarySearchNumberGuess#recommended-interactive-development-environment-ide)
 
 ## Introduction
 The objective of this project was to create an interactive number guessing game, that uses a binary search algorithm to correctly decipher the player's number.
