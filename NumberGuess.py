@@ -1,4 +1,4 @@
-"""Binary Search Number \Guessing Game"""
+"""Binary Search Number Guessing Game"""
 from IPython.display import clear_output
 import random
 
